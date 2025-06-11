@@ -37,11 +37,4 @@ Turn your photos into elegant pencil sketches with real-time controls!
 4. **Gamma LUT Correction**  
    Applies a gamma correction Look-Up Table (LUT) to control sketch brightness and contrast.
 
----
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/PencilSketchFX.git
-cd PencilSketchFX
-pip install -r requirements.txt
