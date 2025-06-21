@@ -42,6 +42,6 @@ Turn your photos into elegant pencil sketches with real-time controls!
 **An interactive image stylization tool built with OpenCV**  
 Make your photos cartoony with real-time controls!
 
-![Demo GIF](sample.gif)
+![SAMPLE GIF](sample.gif)
 
 ---
