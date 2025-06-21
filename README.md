@@ -37,4 +37,11 @@ Turn your photos into elegant pencil sketches with real-time controls!
 4. **Gamma LUT Correction**  
    Applies a gamma correction Look-Up Table (LUT) to control sketch brightness and contrast.
 
+# 🖍 Cartoonizer
 
+**An interactive image stylization tool built with OpenCV**  
+Make your photos cartoony with real-time controls!
+
+![Demo GIF](sample.gif)
+
+---
