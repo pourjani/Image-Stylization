@@ -1,4 +1,4 @@
-# ✏️ PencilSketchFX
+# ✏️ PencilSketch
 
 **An interactive image stylization tool built with OpenCV**  
 Turn your photos into elegant pencil sketches with real-time controls!
